@@ -1,0 +1,16 @@
+{
+    "f\u00fatbol": [
+        "usuario1",
+        "usuario2"
+    ],
+    "nataci\u00f3n": [
+        "usuario1",
+        "usuario3"
+    ],
+    "baloncesto": [
+        "usuario2"
+    ],
+    "ciclismo": [
+        "usuario3"
+    ]
+}

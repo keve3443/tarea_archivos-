@@ -1,0 +1,23 @@
+{
+    "EstudianteA": {
+        "asignatura_1": [
+            80,
+            90,
+            75
+        ],
+        "asignatura_2": [
+            60,
+            70
+        ]
+    },
+    "EstudianteB": {
+        "asignatura_1": [
+            95,
+            85,
+            90
+        ]
+    },
+    "EstudianteC": {
+        "asignatura_3": []
+    }
+}

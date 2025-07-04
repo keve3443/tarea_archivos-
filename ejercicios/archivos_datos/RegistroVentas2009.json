@@ -1,0 +1,22 @@
+[
+    {
+        "Pais_Venta": "United Kingdom",
+        "Tipo_Pago": "Visa"
+    },
+    {
+        "Pais_Venta": "United Kingdom",
+        "Tipo_Pago": "Mastercard"
+    },
+    {
+        "Pais_Venta": "Colombia",
+        "Tipo_Pago": "Visa"
+    },
+    {
+        "Pais_Venta": "United Kingdom",
+        "Tipo_Pago": "Visa"
+    },
+    {
+        "Pais_Venta": "Colombia",
+        "Tipo_Pago": "Visa"
+    }
+]

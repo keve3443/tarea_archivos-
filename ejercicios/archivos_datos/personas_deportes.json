@@ -1,0 +1,29 @@
+{
+    "usuario1": {
+        "nombre_completo": "Ana",
+        "apellido_completo": "Garc\u00eda",
+        "edad": 30,
+        "deportes": [
+            "f\u00fatbol",
+            "nataci\u00f3n"
+        ]
+    },
+    "usuario2": {
+        "nombre_completo": "Juan",
+        "apellido_completo": "P\u00e9rez",
+        "edad": 22,
+        "deportes": [
+            "baloncesto",
+            "f\u00fatbol"
+        ]
+    },
+    "usuario3": {
+        "nombre_completo": "Mar\u00eda",
+        "apellido_completo": "L\u00f3pez",
+        "edad": 35,
+        "deportes": [
+            "nataci\u00f3n",
+            "ciclismo"
+        ]
+    }
+}
